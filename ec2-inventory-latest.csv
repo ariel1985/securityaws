@@ -1,0 +1,5 @@
+AccountID,InstanceID,Type,State,AZ,PrivateIP,PublicIP,KeyPair,Name
+445372526593,i-04b901c633476de8b,t2.micro,stopped,eu-west-1c,172.31.2.179,,eginst,
+445372526593,i-035f9607c6b0ddcb9,t2.micro,stopped,eu-west-1c,172.31.12.70,,eginst,
+445372526593,i-0b005197e510a0f47,t2.micro,stopped,eu-central-1a,172.31.25.171,,jenkins3,jenkins3
+445372526593,i-0c57d99873266f817,t2.micro,stopped,eu-central-1c,172.31.6.233,,jenkins2,jenkins2
